@@ -7122,6 +7122,8 @@
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
+(^|\.)doub\.io$
+(^|\.)our001\.com$
 
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
@@ -7266,7 +7268,6 @@
 (^|\.)zh-yue\.wikipedia\.org$
 (^|\.)zh\.m\.wikipedia\.org$
 (^|\.)zh\.wikipedia\.org$
-(^|\.)doub\.io$
 
 # Instagram
 (^|\.)\w*instagram\w*\.\w*$

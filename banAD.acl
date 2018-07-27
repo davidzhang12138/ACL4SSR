@@ -228,6 +228,7 @@
 (^|\.)badad\.googleplex\.com$
 (^|\.)csi\.gstatic\.com$
 (^|\.)doubleclick(\.com|\.net)$
+(^|\.)google-analytics\.com$
 (^|\.)googleadservices\.com$
 (^|\.)googleadsserving\.cn$
 (^|\.)googlecommerce\.com$
@@ -646,6 +647,7 @@
 (^|\.)bat\.bing\.com$
 (^|\.)beacon\.tingyun\.com$
 (^|\.)cdn\.jiuzhilan\.com$
+(^|\.)collector\.githubapp\.com$
 (^|\.)de\.soquair\.com$
 (^|\.)e\.nexac\.com$
 (^|\.)erebor\.douban\.com$

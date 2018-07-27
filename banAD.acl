@@ -7194,7 +7194,6 @@
 (^|\.)flickr\.com$
 (^|\.)flipboard\.com$
 (^|\.)gfx\.ms$
-(^|\.)gist\.github\.com$
 (^|\.)gongm\.in$
 (^|\.)googleapis\.cn$
 (^|\.)id\.heroku\.com$

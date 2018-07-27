@@ -7141,7 +7141,6 @@
 (^|\.)\w*sci-hub\w*\.\w*$
 (^|\.)\w*avtb\w*\.\w*$
 (^|\.)\w*abema\w*\.\w*$
-(^|\.)\w*github\w*\.\w*$
 
 # Top blocked sites
 (^|\.)4sqi\.net$
@@ -7400,3 +7399,8 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+# Github
+(^|\.)github\.com$
+(^|\.)githubusercontent\.com$
+(^|\.)githubapp\.com$

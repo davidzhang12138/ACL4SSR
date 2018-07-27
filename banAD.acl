@@ -647,7 +647,6 @@
 (^|\.)bat\.bing\.com$
 (^|\.)beacon\.tingyun\.com$
 (^|\.)cdn\.jiuzhilan\.com$
-(^|\.)collector\.githubapp\.com$
 (^|\.)de\.soquair\.com$
 (^|\.)e\.nexac\.com$
 (^|\.)erebor\.douban\.com$
@@ -7403,3 +7402,4 @@
 # Github
 (^|\.)github\.com$
 (^|\.)githubusercontent\.com$
+(^|\.)githubapp\.com$

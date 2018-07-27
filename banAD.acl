@@ -228,7 +228,6 @@
 (^|\.)badad\.googleplex\.com$
 (^|\.)csi\.gstatic\.com$
 (^|\.)doubleclick(\.com|\.net)$
-(^|\.)google-analytics\.com$
 (^|\.)googleadservices\.com$
 (^|\.)googleadsserving\.cn$
 (^|\.)googlecommerce\.com$
@@ -7401,4 +7400,3 @@
 # Github
 (^|\.)github\.com$
 (^|\.)githubusercontent\.com$
-(^|\.)githubapp\.com$

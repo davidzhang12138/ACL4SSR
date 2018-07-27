@@ -7134,6 +7134,7 @@
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
 (^|\.)\w*google\w*\.\w*$
+(^|\.)\w*google-analytics\w*\.\w*$
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
@@ -7141,6 +7142,7 @@
 (^|\.)\w*sci-hub\w*\.\w*$
 (^|\.)\w*avtb\w*\.\w*$
 (^|\.)\w*abema\w*\.\w*$
+(^|\.)\w*githubapp\w*\.\w*$
 
 # Top blocked sites
 (^|\.)4sqi\.net$

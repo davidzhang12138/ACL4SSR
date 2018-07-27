@@ -7402,3 +7402,4 @@
 
 # Github
 (^|\.)github\.com$
+(^|\.)githubusercontent\.com$

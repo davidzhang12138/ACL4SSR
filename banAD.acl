@@ -7266,6 +7266,7 @@
 (^|\.)zh-yue\.wikipedia\.org$
 (^|\.)zh\.m\.wikipedia\.org$
 (^|\.)zh\.wikipedia\.org$
+(^|\.)doub\.io$
 
 # Instagram
 (^|\.)\w*instagram\w*\.\w*$
